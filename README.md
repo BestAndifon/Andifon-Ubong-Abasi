@@ -1,13 +1,14 @@
-HELLO! MY NAME IS ANDIFON UBONG-ABASI. A DATA ANALYST
-I am a highly motivated and detail-oriented Data Analyst with a passion for transforming raw data into actionable insights.
-Equipped with strong analytical skills, proficiency in data manipulation and visualization, and a commitment to driving informed decision-making.
-I'm passionate about leveraging data to uncover insights and drive decision-making.
-I am currently learning and transitioning to data science and I am open to collaborate on projects and ready to pick up internships and job on data analysis roles.
-I am seeking opportunities to leverage expertise in data analysis to contribute to organizational success.
-Welcome to my GitHub repository, where I showcase my data analysis projects and share my learnings in the field of data science.
-You can reach me on PHONE/WHATSAPP: +2348137447371
-EMAIL: bestandifon@gmail.com
-LINKEDIN:  https://www.linkedin.com/in/andifon-ubong-abasi-86296b230
+👋 Hi there! I'm Andifon Ubong-Abasi, a passionate data analyst with a knack for turning raw data into actionable insights. I've honed my skills in data analysis, visualization, and statistical modeling to help organizations make informed decisions.
+
+🎓 I graduated with a degree in Library and Information Science from University of Uyo and from there i started learning data analysis through platforms like Tech4Dev, Udemy, Nsonye and Cousera where I developed a solid foundation in data science principles and techniques. Since then, I've been immersed in various data-centric projects, where I've leveraged my expertise in SQL, Python, PowerBI, Excel and other tools to extract meaningful insights from complex datasets.
+
+🔍 Whether it's uncovering trends, predicting outcomes, or optimizing processes, I thrive on the challenge of solving real-world problems with data. From exploratory data analysis to developing machine learning models, I enjoy every step of the analytical journey.
+
+📊 In this GitHub repository, you'll find a collection of my data analysis projects, each showcasing my approach to tackling different problems and extracting valuable insights. From analyzing customer behavior to predicting sales trends, I'm constantly exploring new datasets and methodologies to expand my skills and knowledge.
+
+🌟 I'm always eager to connect with fellow data enthusiasts, collaborate on projects, or simply chat about all things data science. Feel free to reach out via Email: bestandifon@gmail.com  or connect with me on LinkedIn: https://www.linkedin.com/in/andifon-ubong-abasi-86296b230. Let's geek out over data together!
+
+
 
 
 <!---
